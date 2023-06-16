@@ -1,0 +1,16 @@
+ @media only screen and (min-width:1025px) and (max-width:1200px) {
+
+     /* home  */
+     #home,
+     #about,
+     #services-container,
+     #team,
+     #contact {
+         padding: 0px 50px;
+     }
+
+     /* services  */
+     .service-box {
+         width: 24%;
+     }
+ }
